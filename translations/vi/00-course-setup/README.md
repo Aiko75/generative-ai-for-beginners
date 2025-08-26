@@ -1,4 +1,4 @@
-<!--
+
 CO_OP_TRANSLATOR_METADATA:
 {
   "original_hash": "c110db04c35490138065d75c34041823",
@@ -6,7 +6,7 @@ CO_OP_TRANSLATOR_METADATA:
   "source_file": "00-course-setup/README.md",
   "language_code": "vi"
 }
--->
+
 
 
 
